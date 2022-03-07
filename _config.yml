@@ -24,15 +24,15 @@ description              : "Make Fly!"
 url                      : "https://flyhigh528.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+#teaser                   : /assets/images/flyhigh_teaser.png
 logo                     : /assets/images/flyhigh_logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "flyhigh"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "JungSu LIM"
+  name             : "JungSu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "아키텍처를 꿈꾸는 개발자 성장 블로그입니다."
-  location         : "South Korea"
+  bio              : "아키텍트를 꿈꾸는 개발자 성장 블로그입니다."
+  location         : "SomeWhere"
   email            :
   links:
     - label: "Email"
@@ -285,6 +285,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_date: true
+
+#date_format: "%Y-%m-%d"

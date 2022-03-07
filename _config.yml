@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "욕심쟁이 데이터 아키텍처"
+title                    : "욕심쟁이 아키텍트"
 title_separator          : "|"
 subtitle                 : "더 높게 더 넓게"
 name                     : "Jung-Su"

@@ -5,14 +5,14 @@
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/twins1040/twins1040.github.io"
+    "url": "https://github.com/flyhigh528/flyhigh528.github.io"
   },
   "scripts": {
     "deploy": "gh-pages -d ./"
   },
-  "author": "Myeongwook Cheon <twins1040@gmail.com>",
+  "author": "Lim JungSu <purepis@naver.com>",
   "license": "UNLICENSED",
   "dependencies": {
-    "gh-pages": "^1.1.0"
+    "gh-pages": "^1.0.0"
   }
 }

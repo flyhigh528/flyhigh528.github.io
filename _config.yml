@@ -24,7 +24,7 @@ description              : "Make Fly!"
 url                      : "https://flyhigh528.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-#teaser                   : /assets/images/flyhigh_teaser.png
+teaser                   : /assets/images/flyhigh_teaser.png
 logo                     : /assets/images/flyhigh_logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)

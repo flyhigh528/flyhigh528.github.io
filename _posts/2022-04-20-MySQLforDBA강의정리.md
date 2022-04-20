@@ -418,7 +418,7 @@ PERFORMANCE_SCHEMA를 통해 MySQL서버의 성능 지표 수집, 메모리에 �
 ## **인덱스 설계**
 조회 성능을 향상하기 위한 데이터 구조
 ## InnoDB_Clustered_Index
-<img src="./images/InnoDB_Clustered_Index.jpg"  title="InnoDB_Clustered_Index" alt="InnoDB_Clustered_Index"></img>
+![InnoDB_Clustered_Index](../../images/post/InnoDB_Clustered_Index.jpg)
 Primary Key에 의해 데이터가 구성
 Primary Key의 값으로 Non-leaf 페이지를 구성
 모든 row값은 leaf 페이지에 구성

@@ -1,3 +1,9 @@
+---
+title:  "MySQL for DBA 강의정리"
+categories: DB
+tags: [blog, jekyll]
+---
+
 # MySQL for DBA 강의정리
 https://www.youtube.com/watch?v=wfdgI5mM8Ew&t=2819s
 #

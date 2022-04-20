@@ -1,3 +1,9 @@
+---
+title:  "RDBMS JOIN의종류"
+categories: DB
+tags: [blog, jekyll]
+---
+
 # JOIN 개념 정리
 #
 

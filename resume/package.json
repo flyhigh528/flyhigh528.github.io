@@ -10,7 +10,7 @@
   "scripts": {
     "deploy": "gh-pages -d ./"
   },
-  "author": "Lim JungSu <purepis@naver.com>",
+  "author": "Lim JeongSoo <purepis@naver.com>",
   "license": "UNLICENSED",
   "dependencies": {
     "gh-pages": "^1.0.0"
